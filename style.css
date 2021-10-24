@@ -1,0 +1,21 @@
+div{
+	position: fixed;
+	top: 40%;
+	left: 30%;
+	font-size: 24px;
+	color: #aaa;
+}
+
+#reset_btn{
+	position: fixed;
+	top: 33%;
+	left: 30%;
+	font-size: 24px;
+	color: #aaa;
+	border-style: solid;
+	padding: 5px;
+}
+
+button{
+	font-size: 15px;
+}
